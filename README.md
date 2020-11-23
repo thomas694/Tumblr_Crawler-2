@@ -1,3 +1,11 @@
+# Another application
+**Another Tumblr crawler app can be found here:** 
+**[TumblThree - A Tumblr Backup Application](https://github.com/TumblThreeApp/TumblThree)**
+
+It is a free and open source Tumblr blog backup application, using C# with WPF and the MVVM pattern. It uses the Win Application Framework (WAF). It downloads photo, video, audio and text posts from a given tumblr blog.
+
+<br><br><br>
+
 # Tumblr_Crawler
 This is a multi-threade crawler for Tumblr. Able to download entire blog or any post that you like.
 
@@ -45,7 +53,3 @@ The input could be the blog's url, such as http:\/\/name.tumblr.com/
 Or any single post that you like.
 
 Finally, Enjoy your Interested and Excited Dowload! :)
-
-You can support me through scanning the QR Code of Wechat wallet.  
-
-![image](https://pic1.zhimg.com/80/v2-3e40ae788c0b5e083334d7353b3679b6_hd.jpg)
